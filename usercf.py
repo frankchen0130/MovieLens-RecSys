@@ -1,8 +1,8 @@
 #-*- coding: utf-8 -*-
 '''
-Created on 2015-06-22
+Created on 2017-05-18
 
-@author: Lockvictor
+@author: Frankchen0130
 '''
 import sys, random, math
 from operator import itemgetter
